@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(10, 99, 87);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#header{
+    color: rgb(187, 234, 48);
+    text-shadow: 2px 2px 2px rgb(18, 104, 53),-2px 2px 2px rgb(18, 104, 53),2px -2px 2px rgb(18, 104, 53),-2px -2px 2px rgb(18, 104, 53);
+    font-size: 5rem;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgba(99, 99, 99);
+    font-size: 4rem;
+    border: solid 5px black;
+    padding: 25px;
+    border-radius: 15px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+#arrayDisplay{
+    display: flex;
+    flex-direction: column;
+    color: rgba(99, 99, 99);
+    border: solid 5px black;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    background-color: white;
+    align-items: center;
+    padding-right: 40px;
+    text-align: center;
+}
+#time{
+    font-family: monospace;
+}
+#controls {
+    text-align: center;
+}
+#controls button{
+    font-size: 1.5rem;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    min-width: 100px;
+    border-radius: 15px;
+    transition: background-color 1s ease;
+}
+#start{
+    background-color: rgb(13, 191, 13);
+}
+#start:hover{
+    background-color: rgb(15, 157, 15);
+}
+#stop{
+    background-color: rgb(229, 37, 37);
+}
+#stop:hover{
+    background-color: rgb(168, 0, 0);
+}
+#reset{
+    background-color: rgb(28, 85, 230);
+}
+#reset:hover{
+    background-color: rgb(0, 16, 188);
+}
+#lap{
+    background-color: rgb(255, 145, 0);
+}
+#lap:hover{
+    background-color: rgb(183, 104, 0);
+}
+#clear{
+    background-color: rgb(224, 228, 2);
+}
+#clear:hover{
+    background-color: rgb(177, 183, 0);
+}
