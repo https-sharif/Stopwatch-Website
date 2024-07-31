@@ -14,10 +14,16 @@ You can try the live demo [here](https://sharif-islam96403.github.io/Stopwatch-W
 ## Installation
 
 1. Clone the repository:
-    ```git clone https://github.com/yourusername/stopwatch.git```
-2. Navigate to the project directory:
-    ```cd stopwatch```
-3. Open `index.html` in your browser:
-    ```open index.html```
+    ```
+   git clone https://github.com/yourusername/Stopwatch-Website.git
+    ```
+3. Navigate to the project directory:
+    ```
+   cd Stopwatch-Website
+    ```
+5. Open `index.html` in your browser:
+    ```
+   open index.html
+    ```
 
-Feel free to request pull and suggest improvements.
+### Feel free to submit issues and pull requests.
