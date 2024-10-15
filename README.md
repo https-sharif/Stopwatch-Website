@@ -9,13 +9,13 @@ Welcome to my Stopwatch site – a simple website I created for honing JavaScrip
 
 ## Live Demo
 
-You can try the live demo [here](https://sharif-islam96403.github.io/Stopwatch-Website/).
+You can try the live demo [here](https://https-sharif.github.io/Stopwatch-Website/).
 
 ## Installation
 
 1. Clone the repository:
     ```
-   git clone https://github.com/yourusername/Stopwatch-Website.git
+   git clone https://github.com/https-sharif/Stopwatch-Website.git
     ```
 3. Navigate to the project directory:
     ```
